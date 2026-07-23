@@ -5,10 +5,10 @@ I'm a software engineering student who likes building practical tools and learni
 Currently working mostly with:
 
 * Python
+* C++
 * Linux
 * Docker
 * Git
-* C#
 
 ### Current project
 
@@ -18,7 +18,7 @@ I'm building a Python CLI tool that checks Docker Compose files for security and
 
 * Software design and architecture
 * Data structures and algorithms
-* C# and .NET
+* C++
 * Python application development
 * DevOps and automation
 
