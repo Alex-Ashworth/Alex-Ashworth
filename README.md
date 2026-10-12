@@ -22,10 +22,4 @@ I'm building a Python CLI tool that checks Docker Compose files for security and
 * Python application development
 * DevOps and automation
 
-### Tools I use
-
-`Neovim` · `Arch Linux` · `Git` · `Docker` · `Ghostty` · `Hyprland`
-
----
-
 Most of my repositories are currently either small learning projects, automation tools, or experiments that solve problems I run into.
